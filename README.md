@@ -1,3 +1,6 @@
+Fork of https://github.com/mmartin/digestive-functors-scotty
+Updated conduit version; changed Scotty.params to Scotty.formParams
+
 ```haskell
 {-# LANGUAGE OverloadedStrings #-}
 
